@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1537399192 source:d:\onedrive\ifmg-desktop-all7jb1\perildo 6\calculo numerico\metodo de gass\main.cpp
+	<iostream>
+	<fstream>
+	"stdlib.h"
+	<vector>
+
+1537399380 source:d:\onedrive\ifmg-desktop-all7jb1\perildo 6\calculo numerico\exercicios\metodo de gass\main.cpp
+	<iostream>
+	<fstream>
+	"stdlib.h"
+	<vector>
+
+1543063942 source:d:\onedrive\ifmg-desktop-all7jb1\perildo 6\calculo numerico\exercicios\metodo transformação lu\main.cpp
+	<iostream>
+	<fstream>
+	"stdlib.h"
+	<vector>
+
+1543064452 source:d:\onedrive\ifmg-desktop-all7jb1\período 6\calculo numerico\exercicios\metodo transformação lu\main.cpp
+	<iostream>
+	<fstream>
+	"stdlib.h"
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538614462 source:d:\onedrive\ifmg-desktop-all7jb1\perildo 6\calculo numerico\exercicios\metodo de jacobi\main.cpp
+	<iostream>
+	<fstream>
+	"stdlib.h"
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543107908 source:d:\onedrive\ifmg-desktop-all7jb1\período 6\calculo numerico\exercicios\integracao metodo de gauss legendre\main.cpp
+	<iostream>
+	<fstream>
+	"math.h"
+
